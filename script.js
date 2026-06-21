@@ -66,7 +66,7 @@ document.getElementById("assessmentForm")
         `<h2>Your Resilience Score: ${total}/60</h2>`;
 
     const WEB_APP_URL =
-    "https://script.google.com/macros/s/AKfycbwBC04b0H_58EI1L1zYD_UjHryY3FZ88KWBbh5RmZAaDSq3RQ3QV3AWwUIHURCzQ7YRYA/exec/";
+    "https://script.google.com/macros/s/AKfycbwBC04b0H_58EI1L1zYD_UjHryY3FZ88KWBbh5RmZAaDSq3RQ3QV3AWwUIHURCzQ7YRYA/exec";
 
     try {
 
